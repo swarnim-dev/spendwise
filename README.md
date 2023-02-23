@@ -1,6 +1,11 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Environment Vairable
+
+To run the project you need to rename the '.env.example' to'.env' in ### `/api` and add your MongoDB URL.
 
 ## Available Scripts
 
